@@ -1,2 +1,1 @@
-
-// CTRL + `
+console.log('first')
